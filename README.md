@@ -1,6 +1,6 @@
 # Faker
 #### THIS TOOL MADE FOR PEOPLE TO GET SOME FAKE INFORMATIONS
-## INSTALLATION
+# INSTALLATION
 `git clone https://github.com/wimix123/Faker`
 
 `cd Faker\`
